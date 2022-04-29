@@ -1,0 +1,28 @@
+
+I . HEADER
+
+ 1. Nav :
+	#nav
+	.nav-list
+	.nav-item
+	.nav-icon-sreach
+II . Slider
+
+
+III . Content
+
+  1. About Me
+
+
+  2. I'm really good at
+
+   
+  3. My work
+
+
+  4. Contact
+
+
+IV. Footer
+	
+
